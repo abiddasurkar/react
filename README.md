@@ -1,2 +1,2 @@
 # react
-React projects using Tailwind CSS
+React projects using Tailwind CSS Responsive Components
